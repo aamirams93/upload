@@ -1,6 +1,7 @@
 {
   "name": "json-server-deploy",
   "version": "1.0.0",
+  "description": "Simple json database to deploy to the host of your choice",
   "main": "Default.htm",
   "scripts": {
     "start": "Default.htm"
@@ -12,4 +13,5 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.2"
-  }
+  },
+}
